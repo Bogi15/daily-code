@@ -1,4 +1,4 @@
-//leetcode 2496 
+//leetcode 2496
 class Solution {
    public int maximumValue(String[] strs) {
         int max=0; //this will be the end result of the program
