@@ -9,6 +9,6 @@ class Solution {
         for (String s : word2) {
             s2 = s2 + s;
         }
-        return s1.equals(s2);
+         return s1.equals(s2);
     }
 }
