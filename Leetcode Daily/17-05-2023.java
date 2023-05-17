@@ -6,5 +6,5 @@ class Solution {
             if(nums[i]==target) return i;
         }
         return -1;
-    }
+   }
 }
