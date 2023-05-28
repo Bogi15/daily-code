@@ -1,4 +1,4 @@
-//leetcode 2149
+//leetcode 2149.
 class Solution {
     public int[] rearrangeArray(int[] nums) {
         Queue<Integer> pos = new LinkedList<>();
