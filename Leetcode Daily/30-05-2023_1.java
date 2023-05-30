@@ -15,4 +15,4 @@ class Solution {
         if(s1.equals(s2)) return true;
         else return false;
     }
-}
+}//1
