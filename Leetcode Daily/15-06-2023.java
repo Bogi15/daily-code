@@ -1,4 +1,4 @@
-//leetcode 1161
+//leetcode 1161.
 class Solution {
     public int maxLevelSum(TreeNode root) {
         int maxSum=Integer.MIN_VALUE;
